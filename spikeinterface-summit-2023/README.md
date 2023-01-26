@@ -1,23 +1,22 @@
-## Spike sorting hackathon hybrid event
+# SpikeInterface Summit 2023
 
-- [Spike sorting hackathon hybrid event](#spike-sorting-hackathon-hybrid-event)
-- [Dates and Location](#dates-and-location)
-- [Overview](#overview)
-- [Registration](#registration)
-- [Agenda](#agenda)
-- [Preparation](#preparation)
-- [Projects](#projects)
-- [Organizing Committee](#organizing-committee)
-- [Sponsors](#sponsors)
+Welcome
+
+- [SpikeInterface Summit 2023](#spikeinterface-summit-2023)
+  - [Dates and Location](#dates-and-location)
+  - [Overview](#overview)
+  - [Registration](#registration)
+  - [Agenda](#agenda)
+  - [Preparation](#preparation)
+  - [Projects](#projects)
+  - [Organizing Committee](#organizing-committee)
+  - [Sponsors](#sponsors)
 
 
 ## Dates and Location
 
-- April 14th, 5pm CET: SpikeInterface lesson (virtual)
-- May 12th, 5pm CET: Pre-hackathon project pitch session (virtual)
+The event will take place in Lisbon, Portugal, from June 26th to June 30th 2023.
 
-- **Summit Dates:** June 6 - 10
-- **Location:** Flatiron Institute, 162 5th Ave, New York, NY 10010
 
 ## Overview
 
@@ -36,5 +35,12 @@
 
 ## Organizing Committee
 
+- Alessio Buccino
+- Olivier Winter
+- Ben Dichter
+- Samuel Garcia
+- Jeremy Magland
+- Matthias Hennig
+- Josh Siegle
 
 ## Sponsors
