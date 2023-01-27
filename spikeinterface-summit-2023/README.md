@@ -1,6 +1,5 @@
 # SpikeInterface Workshop 2023
 
-
 ## Dates and Location
 
 The 1st SpikeInterface Summit (2023) will be held at the  Champalimaud Center for the Unknown (CCU) in Lisbon, from June 26-30th 2023.

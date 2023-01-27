@@ -1,3 +1,5 @@
+![SpikeInterface](./assets/images/si-logo.png)
+
 # SpikeInterface events
 
 This website contains all information related to courses, conferences, and events revolving around the [SpikeInterface](https://spikeinterface.readthedocs.io/en/latest/) project.
