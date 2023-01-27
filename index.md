@@ -7,7 +7,7 @@ This website contains all information related to courses, conferences, and event
 
 ## Upcoming events
 
-- [SpikeInterface Summit](spikeinterface-summit-2023/) - Lisbon, Portugal, 26-30th June 2023
+- [SpikeInterface Summit](spikeinterface-workshop-2023/) - Lisbon, Portugal, 26-30th June 2023
 
 
 ## Past events
