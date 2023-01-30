@@ -20,8 +20,7 @@ The 5-day event will be a unique opportunity to strengthen the extracellular ele
 
 The event will be organized as follows:
 User days (day 1-2): the first part of the event is devoted to teaching, with hands-on sessions on data processing, suggested analysis workflows and lessons learned, best practices and common pitfalls (electrophysiology “horror stories”). 
-Projects (day 3-4-5): in the remaining of the event, attendees will work on projects. ***more**
-
+Projects (day 3-4-5): in the remaining of the event, attendees will work on projects. Projects will include both core development of SpikeInterface, addition of new features and functionalities, and development of custom’ pipelines to set up laboratory-specific analysis pipelines.
 
 The sessions would be interleaved with talks and poster presentations where attendees present their current related work and data. We plan to have 5 plenary talks (1 per day) and at least three evening poster sessions over the duration of the event.
 All sessions from the User Days and plenary talks will be recorded and streamed, to enable remote participation to the event. 
@@ -30,6 +29,12 @@ All sessions from the User Days and plenary talks will be recorded and streamed,
 ## Registration
 
 Registration will open soon!
+
+## Code of conduct
+
+Our conference is dedicated to providing a harassment-free conference experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or technology choices. We do not tolerate harassment of conference participants in any form. Sexual language and imagery is not appropriate for any conference venue, including talks, workshops, parties, Twitter and other online media. Conference participants violating these rules may be sanctioned or expelled from the conference without a refund at the discretion of the conference organisers.
+
+Please refer to the  full [code of conduct](CODE_OF_CONDUCT.md) for the workshop.
 
 ## Organizing Committee
 
