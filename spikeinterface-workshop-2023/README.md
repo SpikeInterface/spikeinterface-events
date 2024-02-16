@@ -1,4 +1,4 @@
-# SpikeInterface Workshop 2023
+# SpikeInterface Workshop 2024
 
 * Do you acquire or analyze extracellular electrophysiology data in your research? 
 
@@ -7,8 +7,8 @@
 * Are you excited about open-source initiatives and electrophysiology community-building?
 
 If you answered yes to any of this questions, you are very welcome to participate to the 
-**1st SpikeInterface Workshop**, held in beautiful Lisbon, Portugal, at the Champalimaud 
-Center for the Unknown (CCU) in Lisbon, from June 26-30th 2023.
+**SpikeInterface Workshop/Developer Hackathon**, held in beautiful Edinburgh, Scotland, at the University of Edinburgh, 
+from May 27th-31th 2024.
 
 The 5-day event will be a unique opportunity to strengthen the extracellular electrophysiology community, 
 from end-users to developers. It will cover relevant topics for electrophysiology analysis, including advanced 
@@ -18,18 +18,24 @@ In addition to "theoretical" sessions and lectures, there will be hands-on tutor
 
 ## Program
 
-The event will be organized as follows:
-* **User days (day 1-2)**: the first part of the event is devoted to teaching, with hands-on sessions on data 
-processing, suggested analysis workflows and lessons learned, best practices and common pitfalls (electrophysiology “horror stories”). 
-* **Projects (day 3-4-5)**: in the remaining of the event, attendees will work on projects. Projects will include both core development of SpikeInterface, addition of new features and functionalities, and development of custom pipelines to set up laboratory-specific analysis.
+The event is divided in two sub-sessions:
+* **Workshop (day 1-2)**: the first part of the event is devoted to teaching and training. The first day will have talks on novel technologies and tools for electropysiology data. The second day will be focused on SpikeInterface training, with lectures and hands-on sessions on data processing, suggested analysis workflows and lessons learned, best practices and common pitfalls.
 
-The sessions would be interleaved with talks and poster presentations where attendees present their current related work and data. We plan to have 5 plenary talks (1 per day) and at least three evening poster sessions over the duration of the event.
-All sessions from the User Days and plenary talks will be recorded and streamed, to enable remote participation to the event. 
+* **Developer Hackahton (day 3-4-5)**: the remaining of the event is a developer hackathon. Projects will include both core development of SpikeInterface, addition of new features and functionalities, and development of third party software integrated into the SpikeInterface ecosystem. The developer hackathon is targeted for active contributors/developers of tools for electrophysiology data analysis.
+
+### Capacity
+
+The two sub-events have limited:
+
+* **Workshop (day 1-2)**: max 120 attendees
+* **Hackathon (day 3-4-5)**: max 20 attendees
+
 
 ## Registration
 
 Registration will open soon! At time of registration you can also submit an abstract for the poster sessions or plenary 
 lectures.
+
 
 ## Code of conduct
 
@@ -38,23 +44,17 @@ Please read the [code of conduct](code-of-conduct/) for the workshop.
 ## Organizing Committee
 
 Organizers:
-* Olivier Winter - Champalimaud Center for the Unknown and International Brain Laboratory
-* Alessio Buccino - Allen Institute for Neural Dynamics and CatalystNeuro
-
-Co-organizers:
-
-* Gaëlle Chapuis - UNIGE and International Brain Laboratory 
 * Matthias Hennig - University of Edinburgh
-* Jeremy Magland - Flatiron Institute
-* Benjamin Dichter - CatalystNeuro
+* Alessio Buccino - Allen Institute for Neural Dynamics
 * Samuel Garcia - CNRL
-* Josh Shiegle - Allen Institute of Neural Dynamics
+
 
 ## Contacts
 
 For general inquiries about the event, feel free to contact:
-* Olivier Winter (olivier.winter@internationalbrainlab.org) 
-* Alessio Buccino (alessio.buccino@alleninstitute.org).
+* Matthias Hennig (m.hennig@ed.ac.uk) 
+* Alessio Buccino (alessio.buccino@alleninstitute.org)
+* Samuel Garcia (samuel.garcia@cnrs.fr)
 
 ## Sponsors
 
