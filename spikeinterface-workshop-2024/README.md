@@ -20,6 +20,7 @@ In addition to "theoretical" sessions and lectures, there will be hands-on tutor
 
 The event is divided in two sub-sessions:
 * **Workshop (day 1-2)**: the first part of the event is devoted to teaching and training. The first day will have talks on novel technologies and tools for electropysiology data. The second day will be focused on SpikeInterface training, with lectures and hands-on sessions on data processing, suggested analysis workflows and lessons learned, best practices and common pitfalls.
+At the end of Day 1, there will be a reception with booths and poster session.
 
 * **Developer Hackahton (day 3-4-5)**: the remaining of the event is a developer hackathon. Projects will include both core development of SpikeInterface, addition of new features and functionalities, and development of third party software integrated into the SpikeInterface ecosystem. The developer hackathon is targeted for active contributors/developers of tools for electrophysiology data analysis.
 
@@ -28,13 +29,18 @@ The event is divided in two sub-sessions:
 The two sub-events have limited:
 
 * **Workshop (day 1-2)**: max 120 attendees
-* **Hackathon (day 3-4-5)**: max 20 attendees
+* **Hackathon (day 3-4-5)**: max 25 attendees
 
 
 ## Registration
 
-Registration will open soon! At time of registration you can also submit an abstract for the poster sessions or plenary 
-lectures.
+Registration is open! 
+[Registration link](https://forms.gle/iaBgEuw24wzzhJpF8)
+
+At time of registration you can also express interest for presenting a poster.
+
+
+Registration will close on May 13th 2024.
 
 
 ## Code of conduct
