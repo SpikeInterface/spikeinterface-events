@@ -8,7 +8,7 @@
 
 If you answered yes to any of this questions, you are very welcome to participate to the 
 **SpikeInterface Workshop/Developer Hackathon**, held in beautiful Edinburgh, Scotland, at the University of Edinburgh, 
-from May 27th-31th 2024.
+from May 27th-31st 2024.
 
 The 5-day event will be a unique opportunity to strengthen the extracellular electrophysiology community, 
 from end-users to developers. It will cover relevant topics for electrophysiology analysis, including advanced 
