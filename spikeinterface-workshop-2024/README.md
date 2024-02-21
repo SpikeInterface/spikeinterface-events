@@ -28,9 +28,9 @@ On the second say, we will offer an in-depth trainuing session on electrophysiol
 
 - Andrew Shelton (Allen Brain) - NP-Ultra
 - tbc: Paninski group (Columbia) - DartSort and Dredge
-- tbc: Luca Berdondini (IIT Genova) - SynAPS
+- tbc: Luca Berdondini (IIT Genova) - SiNAPS probe
 - Olivier Winter (Champalimaud) - IBL data
-- Pierre Yger /Samuel Garcia (SortingComponents + SC2)
+- Pierre Yger /Samuel Garcia (SortingComponents + Spyking Circus 2)
 - Gabe Stine (MIT) - NHP Neuropixels
 - Luiz Tauffer - Cloud deployments
 
