@@ -1,4 +1,4 @@
-# SpikeInterface Workshop 2023 - Code of Conduct
+# SpikeInterface Workshop 2024 - Code of Conduct
 
 All attendees, speakers, sponsors and volunteers at our conference are required to agree with the following code of conduct. Organisers will enforce this code throughout the event. We expect cooperation from all participants to help ensure a safe environment for everybody.
 
@@ -8,7 +8,7 @@ Participants asked to stop any harassing behavior are expected to comply immedia
 
 If a participant engages in harassing behavior, the conference organisers may take any action they deem appropriate, including warning the offender or expulsion from the conference with no refund.
 
-If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of the organizing committee immediately (Olivier Winter - olivier.winter@internationalbrainlab.org, Alessio Buccino - alessio.buccino@alleninstitute.org).
+If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of the organizing committee immediately (Matthias Hennig - m.hennig@ed.ac.uk, Alessio Buccino - alessio.buccino@alleninstitute.org, Samuel Garcia - samuel.garcia@cnrs.fr).
 
 Conference staff will be happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the conference. We value your attendance.
 
