@@ -7,7 +7,7 @@ Workshop: 27-28 May 2024
 Hackathon: 29-31 May 2024
 Informatics Forum
 University of Edinburgh
-'''
+:::
 
 * Do you acquire or analyse extracellular electrophysiology data in your research? 
 
