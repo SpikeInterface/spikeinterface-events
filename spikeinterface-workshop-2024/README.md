@@ -47,12 +47,6 @@ On the second say, we will offer an in-depth trainuing session on electrophysiol
 
 The remainder of the event is a developer hackathon. Projects will include both core development of SpikeInterface, addition of new features and functionalities, and development of third party software integrated into the SpikeInterface ecosystem. The developer hackathon is targeted for active contributors/developers of tools for electrophysiology data analysis.
 
-### Capacity
-
-The two sub-events have limited:
-
-
-
 ## Registration
 
 Attending the workshop is free, but you need to regioster here:
