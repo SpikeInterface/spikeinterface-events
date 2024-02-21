@@ -68,7 +68,6 @@ Please read the [code of conduct](code-of-conduct/) for the workshop.
 
 ## Organizing Committee
 
-Organisers:
 * Matthias Hennig - University of Edinburgh
 * Alessio Buccino - Allen Institute for Neural Dynamics
 * Samuel Garcia - CNRS Lyon
