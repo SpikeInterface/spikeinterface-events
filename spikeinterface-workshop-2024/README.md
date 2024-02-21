@@ -1,13 +1,15 @@
 # Tools and Methods for Next Generation Electrophysiology
 
 **A workshop on tools and methods for analysis of exctracellular electrophysiologiocal recordings.**
-::: {.callout-note icon=false}
-## Vital Information
-Workshop: 27-28 May 2024
-Hackathon: 29-31 May 2024
-Informatics Forum
-University of Edinburgh
-:::
+
+> [!IMPORTANT]
+> Workshop: 27-28 May 2024
+> 
+> Hackathon: 29-31 May 2024
+> 
+> Informatics Forum
+> 
+> University of Edinburgh
 
 * Do you acquire or analyse extracellular electrophysiology data in your research? 
 
@@ -28,8 +30,8 @@ On the second say, we will offer an in-depth trainuing session on electrophysiol
 ---------------
 
 - Andrew Shelton (Allen Brain) - NP-Ultra
-- tbc: Paninski group (Columbia) - DartSort and Dredge
-- tbc: Luca Berdondini (IIT Genova) - SiNAPS probe
+- Tbc: Paninski group (Columbia) - DartSort and Dredge
+- Tbc: Luca Berdondini (IIT Genova) - SiNAPS probe
 - Olivier Winter (Champalimaud) - IBL data
 - Pierre Yger /Samuel Garcia (SortingComponents + Spyking Circus 2)
 - Gabe Stine (MIT) - NHP Neuropixels
@@ -41,7 +43,7 @@ On the second say, we will offer an in-depth trainuing session on electrophysiol
 
 - SpikeInterface training session
 - Research Software Engineer gathering
-- more tba
+- More tba
 
 29-31 May: Hackathon
 -----------------
@@ -50,10 +52,10 @@ The remainder of the event is a developer hackathon. Projects will include both 
 
 ## Registration
 
-Attending the workshop is free, but you need to regioster here:
+Attending the workshop is free, but you need to register here:
 [Registration link](https://forms.gle/iaBgEuw24wzzhJpF8)
 
-At time of registration you can also express interest for presenting a poster. Registration will close on May 13th 2024. Please contact Matthias Hennig (m.hennig@ed.ac.uk)  if you need an invitation letter for visa purposes.
+At time of registration you can also express interest for presenting a poster. Registration will close on May 13th 2024. Please contact Matthias Hennig (m.hennig@ed.ac.uk) if you need an invitation letter for visa purposes.
 
 Maximum capacity:
 * **Workshop (day 1-2)**: 120 attendees
