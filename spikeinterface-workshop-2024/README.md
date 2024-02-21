@@ -39,7 +39,7 @@ On the second say, we will offer an in-depth trainuing session on electrophysiol
 ----------------
 
 - SpikeInterface training session
-- Researc Softwrae Engineer gathering
+- Research Software Engineer gathering
 - more tba
 
 29-31 May: Hackathon
@@ -52,11 +52,7 @@ The remainder of the event is a developer hackathon. Projects will include both 
 Attending the workshop is free, but you need to regioster here:
 [Registration link](https://forms.gle/iaBgEuw24wzzhJpF8)
 
-At time of registration you can also express interest for presenting a poster.
-
-Registration will close on May 13th 2024.
-
-Please contact Matthias Hennig (m.hennig@ed.ac.uk)  if you need an invitation letter for visa purposes.
+At time of registration you can also express interest for presenting a poster. Registration will close on May 13th 2024. Please contact Matthias Hennig (m.hennig@ed.ac.uk)  if you need an invitation letter for visa purposes.
 
 Maximum capacity:
 * **Workshop (day 1-2)**: 120 attendees
