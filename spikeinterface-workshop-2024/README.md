@@ -17,17 +17,17 @@
 
 * Are you excited about open-source initiatives and electrophysiology community building?
 
-If you answered yes to any of these questions, we inmvite you to attend this event.
+If you answered yes to any of these questions, we invite you to attend this event.
 
-This workshop will bring together electrophysiologists and developers of tools for the analysis of extracellular recordings to discuss recent developments and future needs in the field.The event 
-consists of a two-day workshop, followed by three days of hackathon for those interested in contributing to the development of [SpikeInterface](https://spikeinterface.readthedocs.io/en/latest/).
+This workshop will bring together electrophysiologists and developers of tools for the analysis of extracellular recordings to discuss recent developments and future needs in the field. The event 
+consists of a two-day workshop, followed by a three-day hackathon for those interested in contributing to the development of [SpikeInterface](https://spikeinterface.readthedocs.io/en/latest/).
 
-On the second say, we will offer an in-depth trainuing session on electrophysiology analysis, including advanced pre- and post-processing of data, drift correction, quality control, visualization options, and more. This session will both introduce concepts, and also offer hands-on tutorials using [SpikeInterface](https://spikeinterface.readthedocs.io/en/latest/) to demonstrate analysis workflows and show successes and failure modes of common methods.
+On the second day, we will offer an in-depth training session on electrophysiology analysis, including advanced pre- and post-processing of data, drift correction, quality control, visualisation options, and more. This session will both introduce concepts, and also offer hands-on tutorials using [SpikeInterface](https://spikeinterface.readthedocs.io/en/latest/) to demonstrate analysis workflows and show successes and failure modes of common methods.
 
 ## Programme
 
 27 May - talks and posters
----------------
+--------------------------
 
 - Andrew Shelton (Allen Brain) - NP-Ultra
 - Tbc: Paninski group (Columbia) - DartSort and Dredge
@@ -46,7 +46,7 @@ On the second say, we will offer an in-depth trainuing session on electrophysiol
 - More tba
 
 29-31 May: Hackathon
------------------
+--------------------
 
 The remainder of the event is a developer hackathon. Projects will include both core development of SpikeInterface, addition of new features and functionalities, and development of third party software integrated into the SpikeInterface ecosystem. The developer hackathon is targeted for active contributors/developers of tools for electrophysiology data analysis.
 
