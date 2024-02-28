@@ -1,3 +1,6 @@
+
+![image](spikeworkshop.png)
+
 # Tools and Methods for Next Generation Electrophysiology
 
 **A workshop on tools and methods for analysis of exctracellular electrophysiologiocal recordings.**
