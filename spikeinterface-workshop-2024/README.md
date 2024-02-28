@@ -2,7 +2,6 @@
 
 **A workshop on tools and methods for analysis of exctracellular electrophysiologiocal recordings.**
 
-
 Workshop: 27-28 May 2024 <br />
 Hackathon: 29-31 May 2024 <br />
 Informatics Forum <br />
