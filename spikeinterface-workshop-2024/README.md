@@ -78,6 +78,11 @@ For general inquiries about the event, feel free to contact:
 * Alessio Buccino (alessio.buccino@alleninstitute.org)
 * Samuel Garcia (samuel.garcia@cnrs.fr)
 
-## Sponsors
+## Sponsors and Acknowledgements
 
-TBC
+[<img src="sidb.jpg" alt="drawing" width="200"/>](https://sidb.org.uk/)
+[<img src="cdt.jpg" alt="drawing" width="200"/>](https://web.inf.ed.ac.uk/cdt/biomedical-ai)
+
+more TBC
+
+Image Credit: [Wolf De Wulf](https://www.wolfdewulf.eu/)
