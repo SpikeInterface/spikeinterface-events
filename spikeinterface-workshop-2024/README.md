@@ -30,7 +30,7 @@ On the second day, we will offer an in-depth training session on electrophysiolo
 --------------------------
 
 - Andrew Shelton (Allen Brain) - NP-Ultra
-- Tbc: Paninski group (Columbia) - DartSort and Dredge
+- Cole Hurwitz (Columbia) - DartSort and Dredge
 - Tbc: Luca Berdondini (IIT Genova) - SiNAPS probe
 - Olivier Winter (Champalimaud) - IBL data
 - Pierre Yger /Samuel Garcia (SortingComponents + Spyking Circus 2)
