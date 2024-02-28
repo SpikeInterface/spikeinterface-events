@@ -2,3 +2,5 @@ theme: jekyll-theme-slate
 
 title: Spike sorting events
 description: Material for courses, conferences, and events about SpikeInterface, spike sorting, and electrophysiology analysis
+
+highlighter: rouge
