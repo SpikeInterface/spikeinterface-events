@@ -71,6 +71,7 @@ Please read the [code of conduct](code-of-conduct/) for the workshop.
 
 ## Sponsors and Acknowledgements
 
+[<img src="bbsrc.png" alt="drawing" width="200"/>](https://www.ukri.org/councils/bbsrc/)
 [<img src="sidb.jpg" alt="drawing" width="200"/>](https://sidb.org.uk/)
 [<img src="cdt.jpg" alt="drawing" width="200"/>](https://web.inf.ed.ac.uk/cdt/biomedical-ai)
 
