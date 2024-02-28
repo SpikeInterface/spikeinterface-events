@@ -25,8 +25,7 @@ On the second day, we will offer an in-depth training session on electrophysiolo
 
 ## Programme
 
-27 May - talks and posters
---------------------------
+### 27 May - talks and posters
 
 - Andrew Shelton (Allen Brain) - NP-Ultra
 - Cole Hurwitz (Columbia) - DartSort and Dredge
@@ -37,15 +36,13 @@ On the second day, we will offer an in-depth training session on electrophysiolo
 - Luiz Tauffer - Cloud deployments
 
 
-28 May: Workshop
-----------------
+### 28 May: Workshop
 
 - SpikeInterface training session
 - Research Software Engineer gathering
 - More tba
 
-29-31 May: Hackathon
---------------------
+### 29-31 May: Hackathon
 
 The remainder of the event is a developer hackathon. Projects will include both core development of SpikeInterface, addition of new features and functionalities, and development of third party software integrated into the SpikeInterface ecosystem. The developer hackathon is targeted for active contributors/developers of tools for electrophysiology data analysis.
 
@@ -64,19 +61,13 @@ Maximum capacity:
 
 Please read the [code of conduct](code-of-conduct/) for the workshop.
 
-## Organizing Committee
+## Organizing Committee and Contact
 
-* Matthias Hennig - University of Edinburgh
-* Alessio Buccino - Allen Institute for Neural Dynamics
-* Samuel Garcia - CNRS Lyon
+* Matthias Hennig - University of Edinburgh ([m.hennig@ed.ac.uk](mailto:m.hennig@ed.ac.uk)) 
+* Alessio Buccino - Allen Institute for Neural Dynamics ([alessio.buccino@alleninstitute.org](mailto:alessio.buccino@alleninstitute.org))
+* Samuel Garcia - CNRS Lyon ([samuel.garcia@cnrs.fr](mailto:samuel.garcia@cnrs.fr))
 
 
-## Contacts
-
-For general inquiries about the event, feel free to contact:
-* Matthias Hennig (m.hennig@ed.ac.uk) 
-* Alessio Buccino (alessio.buccino@alleninstitute.org)
-* Samuel Garcia (samuel.garcia@cnrs.fr)
 
 ## Sponsors and Acknowledgements
 
