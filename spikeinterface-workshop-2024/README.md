@@ -27,20 +27,20 @@ On the second day, we will offer an in-depth training session on electrophysiolo
 
 ### 27 May - talks and posters
 
-- Andrew Shelton (Allen Brain) - NP-Ultra
+- Andrew Shelton (Allen Brain) - Neuropixels-Ultra
 - Cole Hurwitz (Columbia) - DartSort and Dredge
-- Tbc: Luca Berdondini (IIT Genova) - SiNAPS probe
-- Olivier Winter (Champalimaud) - IBL data
-- Pierre Yger /Samuel Garcia (SortingComponents + Spyking Circus 2)
-- Gabe Stine (MIT) - NHP Neuropixels
-- Luiz Tauffer - Cloud deployments
+- TBA: Luca Berdondini (IIT Genova) - SiNAPS probes
+- Olivier Winter (Champalimaud) - International Brain Lab data and processing pipeline
+- Pierre Yger (INSERM) / Samuel Garcia (CNRS) - SortingComponents + Spyking Circus2
+- Gabe Stine (MIT) - Non-Human Primate (NHP) Neuropixels
+- Luiz Tauffer (CatalystNeuro) - Spike sorting cloud deployments
 
 
-### 28 May: Workshop
+### 28 May: Training Workshop
 
 - SpikeInterface training session
 - Research Software Engineer gathering
-- More tba
+- More tBA
 
 ### 29-31 May: Hackathon
 
