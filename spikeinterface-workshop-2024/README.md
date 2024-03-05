@@ -29,7 +29,7 @@ On the second day, we will offer an in-depth training session on electrophysiolo
 
 - Andrew Shelton (Allen Brain) - Neuropixels-Ultra
 - Cole Hurwitz (Columbia) - DartSort and Dredge
-- TBA: Luca Berdondini (IIT Genova) - SiNAPS probes
+- Luca Berdondini (IIT Genova) - SiNAPS probes
 - Olivier Winter (Champalimaud) - International Brain Lab data and processing pipeline
 - Pierre Yger (INSERM) / Samuel Garcia (CNRS) - SortingComponents + Spyking Circus2
 - Gabe Stine (MIT) - Non-Human Primate (NHP) Neuropixels
@@ -40,7 +40,7 @@ On the second day, we will offer an in-depth training session on electrophysiolo
 
 - SpikeInterface training session
 - Research Software Engineer gathering
-- More tBA
+- More tba
 
 ### 29-31 May: Hackathon
 
