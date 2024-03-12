@@ -71,10 +71,15 @@ Please read the [code of conduct](code-of-conduct/) for the workshop.
 
 ## Sponsors and Acknowledgements
 
-[<img src="bbsrc.png" alt="drawing" width="200"/>](https://www.ukri.org/councils/bbsrc/)
-[<img src="sidb.jpg" alt="drawing" width="200"/>](https://sidb.org.uk/)
-[<img src="cdt.jpg" alt="drawing" width="200"/>](https://web.inf.ed.ac.uk/cdt/biomedical-ai)
+<style>
+td, th {
+   border: none!important;
+}
+</style>
 
-more TBC
+|  |  |  |
+|---|---|---|
+|[<img src="bbsrc.png" alt="BBSRC" width="150"/>](https://www.ukri.org/councils/bbsrc/)|[<img src="plexon.png" alt="Plexon" width="250"/>](https://plexon.com/)|[<img src="catalyst.png" alt="Catalyst Neuro" width="200"/>](https://www.catalystneuro.com/)|
+|[<img src="sidb.jpg" alt="SIDB" width="200"/>](https://sidb.org.uk/)|[<img src="cdt.jpg" alt="BiomedAI CDT" width="200"/>](https://web.inf.ed.ac.uk/cdt/biomedical-ai)|[<img src="cnt.png" alt="Cambridge NeuroTech" width="150"/>](https://www.cambridgeneurotech.com/)|
 
 Image Credit: [Wolf De Wulf](https://www.wolfdewulf.eu/)
