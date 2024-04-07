@@ -25,7 +25,7 @@ On the second day, we will offer an in-depth training session on electrophysiolo
 
 ## Programme
 
-### 27 May - talks and posters
+### 27 May: Talks and Posters
 
 - Andrew Shelton (Allen Brain) - Neuropixels-Ultra
 - Cole Hurwitz (Columbia) - DartSort and Dredge
@@ -69,17 +69,21 @@ Please read the [code of conduct](code-of-conduct/) for the workshop.
 
 
 
-## Sponsors and Acknowledgements
+## Acknowledgements
 
-<style>
-td, th {
-   border: none!important;
-}
-</style>
+This workshop is supported by the following sponsors:
 
-|  |  |  |
-|---|---|---|
-|[<img src="bbsrc.png" alt="BBSRC" width="150"/>](https://www.ukri.org/councils/bbsrc/)|[<img src="plexon.png" alt="Plexon" width="250"/>](https://plexon.com/)|[<img src="catalyst.png" alt="Catalyst Neuro" width="200"/>](https://www.catalystneuro.com/)|
-|[<img src="sidb.jpg" alt="SIDB" width="200"/>](https://sidb.org.uk/)|[<img src="cdt.jpg" alt="BiomedAI CDT" width="200"/>](https://web.inf.ed.ac.uk/cdt/biomedical-ai)|[<img src="cnt.png" alt="Cambridge NeuroTech" width="150"/>](https://www.cambridgeneurotech.com/)|
+[<img src="bbsrc.png" alt="BBSRC" width="150"/>](https://www.ukri.org/councils/bbsrc/)
+
+[<img src="plexon.png" alt="Plexon" width="200"/>](https://plexon.com/)
+[<img src="catalyst.png" alt="Catalyst Neuro" width="200"/>](https://www.catalystneuro.com/)
+
+[<img src="sidb.jpg" alt="SIDB" width="200"/>](https://sidb.org.uk/)
+[<img src="cdt.jpg" alt="BiomedAI CDT" width="200"/>](https://web.inf.ed.ac.uk/cdt/biomedical-ai)
+
+[<img src="sulsa.png" alt="Scottish Universities Life Sciences Alliance" width="200"/>](https://sulsa.ac.uk/)
+[<img src="sicsa.jpg" alt="Scottish Informatics and Computer Science Alliance" width="200"/>](https://www.sicsa.ac.uk/)
+
+[<img src="cnt2.png" alt="Cambridge NeuroTech" width="150"/>](https://www.cambridgeneurotech.com/)
 
 Image Credit: [Wolf De Wulf](https://www.wolfdewulf.eu/)
