@@ -28,9 +28,9 @@ On the second day, we will offer an in-depth training session on electrophysiolo
 ### 27 May: Talks and Posters
 
 - Andrew Shelton (Allen Brain) - Neuropixels-Ultra
-- Cole Hurwitz (Columbia) - DartSort and Dredge
+- Cole Hurwitz / Charlie Windolf (Columbia) - a new spike sorting approach - DartSort and Dredge
 - Luca Berdondini (IIT Genova) - SiNAPS probes
-- Olivier Winter (Champalimaud) - International Brain Lab data and processing pipeline
+- Olivier Winter (Champalimaud) - International Brain Lab data and processing pipelines
 - Pierre Yger (INSERM) / Samuel Garcia (CNRS) - SortingComponents + Spyking Circus2
 - Gabe Stine (MIT) - Non-Human Primate (NHP) Neuropixels
 - Luiz Tauffer (CatalystNeuro) - Spike sorting cloud deployments
