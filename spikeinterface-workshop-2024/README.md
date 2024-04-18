@@ -38,9 +38,12 @@ On the second day, we will offer an in-depth training session on electrophysiolo
 
 ### 28 May: Training Workshop
 
-- SpikeInterface training session
-- Research Software Engineer gathering
-- More tba
+**SpikeInterface training session**<br />
+Hands-on with spikeinterface! There will be an overview of the spikeinterface package, then focused mini-sessions on particular parts of the software. There will be a chance to show your code to spikeinterface developers who can help you get it working, or give advice on how it can be improved.
+
+**Research Software Engineering in Neuroscience 12:30-14:00**<br />
+A satellite event: a lunchtime launch of the Scottish Neuroscience Software Network. Hear perspectives from people at different career stages and from different disciplines, followed by a discussion. What does a research software engineer do? How can you become one? And how can PIs support these roles?
+
 
 ### 29-31 May: Hackathon
 
