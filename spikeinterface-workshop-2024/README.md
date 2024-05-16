@@ -27,14 +27,17 @@ On the second day, we will offer an in-depth training session on electrophysiolo
 
 ### 27 May: Talks and Posters
 
-- Andrew Shelton (Allen Brain) - Neuropixels-Ultra
-- Cole Hurwitz / Charlie Windolf (Columbia) - a new spike sorting approach - DartSort and Dredge
-- Luca Berdondini (IIT Genova) - SiNAPS probes
-- Olivier Winter (Champalimaud) - International Brain Lab data and processing pipelines
-- Pierre Yger (INSERM) / Samuel Garcia (CNRS) - SortingComponents + Spyking Circus2
-- Gabe Stine (MIT) - Non-Human Primate (NHP) Neuropixels
-- Luiz Tauffer (CatalystNeuro) - Spike sorting cloud deployments
-
+- 9:30 - 10:00 welcome coffee
+- 10:00 - 10:45 Andrew Shelton (Allen Brain) - NP-Ultra
+- 10:45 - 11:30 Gabe Stine (MIT) - A new era for primate neuroscience with NHP Neuropixels
+- 11:30 - 12:15 Luca Berdondini (IIT Genova) - SinAPS
+- 12:15 - 13:30 lunch break
+- 13:30 - 14:15 Charlie Windolf/Cole Hurwitz (Columbia) - DartSort + Drift = Dredge
+- 14:15 - 15:00 Pierre Yger /Samuel Garcia (SortingComponents + SC2)
+- 15:00 - 15:30 coffee
+- 15:30 - 16:15 Olivier Winter (Champalimaud) - IBL data
+- 16:15 - 17:00 Luiz Tauffer - Cloud deployments 
+- 17:00 - 20:00 Reception and posters
 
 ### 28 May: Training Workshop
 
@@ -44,6 +47,7 @@ Hands-on with spikeinterface! There will be an overview of the spikeinterface pa
 **Research Software Engineering in Neuroscience 12:30-14:00**<br />
 A satellite event: a lunchtime launch of the Scottish Neuroscience Software Network. Hear perspectives from people at different career stages and from different disciplines, followed by a discussion. What does a research software engineer do? How can you become one? And how can PIs support these roles?
 
+**Additional sessions TBC**
 
 ### 29-31 May: Hackathon
 
