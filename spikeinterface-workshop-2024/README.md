@@ -28,7 +28,7 @@ On the second day, we will offer an in-depth training session on electrophysiolo
 ### 27 May: Talks and Posters
 
 - 9:30 - 10:00 welcome coffee
-- 10:00 - 10:45 Andrew Shelton (Allen Brain) - NP-Ultra
+- 10:00 - 10:45 Andrew Shelton (Allen Brain) - Ultra-high-density electrodes improve detection, yield, and cell type specificity of brain recordings
 - 10:45 - 11:30 Gabe Stine (MIT) - A new era for primate neuroscience with NHP Neuropixels
 - 11:30 - 12:15 Luca Berdondini (IIT Genova) - SinAPS
 - 12:15 - 13:30 lunch break
