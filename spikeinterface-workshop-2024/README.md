@@ -32,11 +32,11 @@ On the second day, we will offer an in-depth training session on electrophysiolo
 - 10:45 - 11:30 Gabe Stine (MIT) - A new era for primate neuroscience with NHP Neuropixels
 - 11:30 - 12:15 Luca Berdondini (IIT Genova) - SinAPS
 - 12:15 - 13:30 lunch break
-- 13:30 - 14:15 Charlie Windolf/Cole Hurwitz (Columbia) - DartSort + Drift = Dredge
-- 14:15 - 15:00 Pierre Yger /Samuel Garcia (SortingComponents + SC2)
+- 13:30 - 14:15 Charlie Windolf and Cole Hurwitz (Columbia) - DartSort + Drift = Dredge
+- 14:15 - 15:00 Pierre Yger (Institut de la Vision) and Samuel Garcia (CNRS) - Spike Sorting with a modular and collaborative approach
 - 15:00 - 15:30 coffee
 - 15:30 - 16:15 Olivier Winter (Champalimaud) - IBL data
-- 16:15 - 17:00 Luiz Tauffer - Cloud deployments 
+- 16:15 - 17:00 Luiz Tauffer (Catalyst Neuro) - Cloud deployments 
 - 17:00 - 20:00 Reception and posters
 
 ### 28 May: Training Workshop
