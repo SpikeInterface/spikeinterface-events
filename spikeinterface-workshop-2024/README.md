@@ -64,6 +64,14 @@ Maximum capacity:
 * **Workshop (day 1-2)**: 100 attendees
 * **Hackathon (day 3-4-5)**: 25 attendees
 
+## Venue
+
+The workshop will take place in the [Informatics Forum ](https://en.wikipedia.org/wiki/Informatics_Forum) in the centre of Edinburgh. The address is 10 Crichton Street, EH8 9AB. Note that house numbers in Crichton Street have base 2 encoding! 
+
+The Hackathon will take place in [40 George Square](https://www.uoecollection.com/conferences-events/venue-hubs/old-town-campus/40-george-square/), just around the corner from the Forum.
+
+Both are a short walk from the train station (Waverley) and Princess Street, where the airport tram and bus stop.
+
 ## Code of conduct
 
 Please read the [code of conduct](code-of-conduct/) for the workshop.
