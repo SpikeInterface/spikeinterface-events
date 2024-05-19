@@ -44,6 +44,8 @@ On the second day, we will offer an in-depth training session on electrophysiolo
 **SpikeInterface training session**<br />
 Hands-on with spikeinterface! There will be an overview of the spikeinterface package, then focused mini-sessions on particular parts of the software. There will be a chance to show your code to spikeinterface developers who can help you get it working, or give advice on how it can be improved.
 
+Additional information on the training session can be found [here](https://github.com/SpikeInterface/SpikeInterface-Training-Edinburgh-May24/blob/main/README.md).
+
 **Research Software Engineering in Neuroscience 12:30-14:00**<br />
 A satellite event: a lunchtime launch of the Scottish Neuroscience Software Network. Hear perspectives from people at different career stages and from different disciplines, followed by a discussion. What does a research software engineer do? How can you become one? And how can PIs support these roles?
 
@@ -52,6 +54,8 @@ A satellite event: a lunchtime launch of the Scottish Neuroscience Software Netw
 ### 29-31 May: Hackathon
 
 The remainder of the event is a developer hackathon. Projects will include both core development of SpikeInterface, addition of new features and functionalities, and development of third party software integrated into the SpikeInterface ecosystem. The developer hackathon is targeted for active contributors/developers of tools for electrophysiology data analysis.
+
+The list of proposed projects can be found [here](https://github.com/SpikeInterface/SpikeInterface-Hackathon-Edinburgh-May24/issues).
 
 ## Registration
 
