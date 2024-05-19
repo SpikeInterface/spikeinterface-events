@@ -36,7 +36,7 @@ On the second day, we will offer an in-depth training session on electrophysiolo
 - 14:15 - 15:00 Pierre Yger (Institut de la Vision) and Samuel Garcia (CNRS) - Spike Sorting with a modular and collaborative approach
 - 15:00 - 15:30 coffee
 - 15:30 - 16:15 Olivier Winter (Champalimaud) - Lessons from applying spike sorting on thousands of Neuropixel recordings at IBL
-- 16:15 - 17:00 Luiz Tauffer (Catalyst Neuro) - Cloud deployments 
+- 16:15 - 17:00 Luiz Tauffer (CatalystNeuro) - DENDRO: Analyze neuroscience data in the cloud
 - 17:00 - 20:00 Reception and posters
 
 ### 28 May: Training Workshop
