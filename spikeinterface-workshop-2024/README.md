@@ -27,17 +27,17 @@ On the second day, we will offer an in-depth training session on electrophysiolo
 
 ### 27 May: Talks and Posters
 
-- 9:30 - 10:00 welcome coffee
-- 10:00 - 10:45 Andrew Shelton (Allen Brain) - "Ultra-high-density electrodes improve detection, yield, and cell type specificity of brain recordings"
-- 10:45 - 11:30 Gabe Stine (MIT) - "A new era for primate neuroscience with NHP Neuropixels"
-- 11:30 - 12:15 Luca Berdondini (IIT Genova) - "Implantable SiNAPS-probes for electrophysiology at high spatiotemporal resolution: technology, performances and perspectives"
-- 12:15 - 13:30 lunch break
-- 13:30 - 14:15 Charlie Windolf and Cole Hurwitz (Columbia) - "DartSort + Drift = Dredge"
-- 14:15 - 15:00 Pierre Yger (Institut de la Vision) and Samuel Garcia (CNRS) - "Spike Sorting with a modular and collaborative approach"
-- 15:00 - 15:30 coffee
-- 15:30 - 16:15 Olivier Winter (Champalimaud) - "Lessons from applying spike sorting on thousands of Neuropixel recordings at IBL"
-- 16:15 - 17:00 Luiz Tauffer (CatalystNeuro) - "DENDRO: Analyze neuroscience data in the cloud"
-- 17:00 - 20:00 Reception and posters
+- 9:30 - 10:00: *Welcome coffee*
+- 10:00 - 10:45: **Andrew Shelton** (Allen Institute) - "Ultra-high-density electrodes improve detection, yield, and cell type specificity of brain recordings"
+- 10:45 - 11:30: **Gabe Stine** (MIT) - "A new era for primate neuroscience with NHP Neuropixels"
+- 11:30 - 12:15: **Luca Berdondini** (IIT Genova) - "Implantable SiNAPS-probes for electrophysiology at high spatiotemporal resolution: technology, performances and perspectives"
+- 12:15 - 13:30: *Lunch break*
+- 13:30 - 14:15 **Charlie Windolf** and **Cole Hurwitz** (Columbia) - "DartSort + Drift = Dredge"
+- 14:15 - 15:00 **Pierre Yger** (Institut de la Vision) - "Spike Sorting with a modular and collaborative approach"
+- 15:00 - 15:30 *Coffee break*
+- 15:30 - 16:15 **Olivier Winter** (Champalimaud) - "Lessons from applying spike sorting on thousands of Neuropixel recordings at IBL"
+- 16:15 - 17:00 **Luiz Tauffer** (CatalystNeuro) - "DENDRO: Analyze neuroscience data in the cloud"
+- 17:00 - 20:00 *Reception and posters*
 
 ### 28 May: Training Workshop
 
