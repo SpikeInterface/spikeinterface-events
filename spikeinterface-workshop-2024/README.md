@@ -50,7 +50,11 @@ Additional information on the training session can be found [here](https://githu
 **Research Software Engineering in Neuroscience 12:30-14:00**<br />
 A satellite event: a lunchtime launch of the Scottish Neuroscience Software Network. Hear perspectives from people at different career stages and from different disciplines, followed by a discussion. What does a research software engineer do? How can you become one? And how can PIs support these roles?
 
-**Additional sessions TBC**
+**Additional sessions**
+
+- MaxWell Biosystems CMOS MEA demonstration
+- Future needs and developments for electrophysiology fiscussio  group
+- Special interest session on ephys in NHP
 
 ### 29-31 May: Hackathon
 
@@ -60,14 +64,7 @@ The list of proposed projects can be found [here](https://github.com/SpikeInterf
 
 ## Registration
 
-Attending the workshop is free, but you need to register here:
-[Registration link](https://forms.gle/iaBgEuw24wzzhJpF8)
-
-At time of registration you can also express interest for presenting a poster. Registration will close on May 13th 2024. Please contact Matthias Hennig (m.hennig@ed.ac.uk) if you need an invitation letter for visa purposes.
-
-Maximum capacity:
-* **Workshop (day 1-2)**: 100 attendees
-* **Hackathon (day 3-4-5)**: 25 attendees
+Closed
 
 ## Venue
 
