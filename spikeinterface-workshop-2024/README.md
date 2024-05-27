@@ -52,9 +52,10 @@ A satellite event: a lunchtime launch of the Scottish Neuroscience Software Netw
 
 **Additional sessions**
 
-- MaxWell Biosystems CMOS MEA demonstration
-- Future needs and developments for electrophysiology fiscussio  group
-- Special interest session on ephys in NHP
+- 12:30 Research Software Engineering in Neuroscience event (room G.07A)
+- 13:00 MaxWell Biosystems CMOS MEA demonstration (room 1.16)
+- 14:00 Future needs and developments for electrophysiology (room 1.16)
+- 15:50 Ephys in non-human primates (room 1.16)
 
 ### 29-31 May: Hackathon
 
